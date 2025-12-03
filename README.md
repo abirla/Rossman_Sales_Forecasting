@@ -9,9 +9,9 @@ Rossmann is a European drug distributor which operates over 3,000 drug stores ac
 - Prepare models specifically for 9 key stores: 1, 3, 8, 9, 13, 25, 29, 31, and 46
 
 ## Contents
-- **[Source Code]**()
-- **[Documentation]**()
-- **[Sample Data]**()
+- **[Source Code]**(https://github.com/abirla/Rossman_Sales_Forecasting/blob/main/Rossmann_MultiModel_Forecasting_Ankit_Birla.ipynb)
+- **[Documentation]**(https://github.com/abirla/Rossman_Sales_Forecasting/blob/main/Rossmann_Sales_Forecasting_Report.pdf)
+- **[Sample Data]**(https://github.com/abirla/Rossman_Sales_Forecasting/blob/main/Dataset.zip)
 
 ## 🛠️ Tech Stack
 - **Language**: Python 3.x
@@ -22,9 +22,9 @@ Rossmann is a European drug distributor which operates over 3,000 drug stores ac
 - **Environment**: Collab Notebook
 
 ## Installation and Run
-- Clone Repo: git clone []()]
-- Navigate to the project directory: Rossman-Drug-Stores-Sales-Forecasting
-- Run the main using Jupyter or Collab: ""
+- Clone Repo: git clone [https://github.com/abirla/Rossman_Sales_Forecasting.git]
+- Navigate to the project directory: Rossman_Sales_Forecasting
+- Run the main using Jupyter or Collab: "https://github.com/abirla/Rossman_Sales_Forecasting/blob/main/Rossmann_MultiModel_Forecasting_Ankit_Birla.ipynb"
 - Upload the train.csv and store.csv files from the dataset.zip
 
 ## 💬 Contact
