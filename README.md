@@ -1,4 +1,4 @@
-# Rossman Drug Stores Sales Forecasting
+# Rossman Sales Forecasting
 This project focuses on building time series based sales forecasing using Machine Learning models.
 
 # Problem Statment
